@@ -1,0 +1,10 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+main .carousel-inner img{
+    max-height: 80vh;
+    object-fit: cover;
+    filter: grayscale(50%);
+}
